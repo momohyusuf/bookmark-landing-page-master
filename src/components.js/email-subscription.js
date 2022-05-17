@@ -24,7 +24,7 @@ export default function Subscription() {
       <p className="users">35,000+ ALREADY JOINED</p>
       <p className="check-in">Stay up-to-date with what we're doing</p>
 
-      <form>
+      <form className="email-container">
         <div className="verify">
           <input
             className="email"
